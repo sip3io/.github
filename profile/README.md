@@ -1,4 +1,4 @@
-![banner](images/BannerImage.png)
+![banner](/profile/images/Banner.png)
 
 Welcome to the SIP3 GitHub where you will find the source code of all the SIP3 CE components.
 
