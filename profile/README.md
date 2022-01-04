@@ -1,6 +1,6 @@
 ![banner](/profile/images/Banner.png)
 
-Welcome to the SIP3 GitHub where you will find the source code of all the SIP3 CE components.
+Welcome to the SIP3 GitHub where you will find all the SIP3 CE components.
 
 Here are some useful resources which will help you to start with SIP3:
 
