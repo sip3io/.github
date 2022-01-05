@@ -1,4 +1,6 @@
-![banner](/profile/images/Banner.png)
+<p align="center">
+<a href="https://sip3.io"><img src="https://github.com/sip3io/.github/blob/master/profile/images/Banner.png" alt="SIP3: New generation of VoIP monitoring"></a>
+</p>
 
 Welcome to the SIP3 GitHub where you will find all the SIP3 CE components.
 
